@@ -1,8 +1,11 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://pixobia.io)
 <h1 align="center">BTW , Hi 👋, I'm Sathvik</h1>
 
 <h3 align="center">A passionate frontend developer from NIT Jamshedpur</h3>
 
-<img  margin-bottom="14px" align="right" src="https://media0.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif?cid=ecf05e47cdnzrp3zsci1zii1pr4kf86rhgkrdf8mfvujjwpr&rid=giphy.gif&ct=g" alt="">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
 
 - 🔭 I’m currently working on **Frontend development**
 
@@ -39,6 +42,8 @@ A Mobile Photography Blog!
 
 
 P.S. Star ⭐ and Share this repository, if you had fun!! 😍
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pixobia&label=Profile%20views&color=0e75b6&style=flat" alt="pixobia" /> </p>
+<!-- Badges used from https://github.com/klaasnicolaas/ColoredBadges -->
 
 ---
 
@@ -92,6 +97,9 @@ git push origin my-new-branch
 
 <br>
 
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=pixobia&&theme=xcode)](https://github.com/pixobia)
+
+
 <h1 align="center">
 Most active contributors 🚀
 </h1>
@@ -102,6 +110,10 @@ Most active contributors 🚀
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
+
+<h1 align="center">My Badges😍</h1>
+
+[![@pixobia's Holopin board](https://holopin.me/pixobia)](https://holopin.io/@pixobia)
 
 
 
